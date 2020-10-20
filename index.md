@@ -82,6 +82,23 @@ displayed if the 'eventbrite' field in the header is not set.
 
 
 <h2 id="general">General Information</h2>
+<!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7220656" matches with the above code: jQuery("#s_lc_event_7220656")  //-->
+<a id="s_lc_event_7220656" href="https://okstate.libcal.com/calendar/events/geospatial_2020_11">REGISTER</a>
+<!-- Below is optional element styling  //-->
+<style>
+#s_lc_event_7220656 {
+  background: #F5600A;
+  border: 1px solid #F5600A;
+  border-radius: 4px;
+  color: #050505;
+  font: 14px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#s_lc_event_7220656:hover {
+  opacity: 0.9;
+}
+</style>
 
 {% comment %}
 INTRODUCTION
