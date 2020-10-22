@@ -80,7 +80,7 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7234879" matches with the above code: jQuery("#s_lc_event_7234879")  //-->
-<a id="s_lc_event_7234879" href="https://okstate.libcal.com/calendar/events/geospatial_202011">REGISTER</a>
+<a id="s_lc_event_7234879" href="https://okstate.libcal.com/calendar/events/dc_geospatial_202011">REGISTER</a>
 <!-- Below is optional element styling  //-->
 <style>
 #s_lc_event_7234879 {
