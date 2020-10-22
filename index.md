@@ -79,7 +79,7 @@ displayed if the 'eventbrite' field in the header is not set.
   scrolling="auto">
 </iframe>
 {% endif %}
-<!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7220656" matches with the above code: jQuery("#s_lc_event_7234879")  //-->
+<!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7234879" matches with the above code: jQuery("#s_lc_event_7234879")  //-->
 <a id="s_lc_event_7234879" href="https://okstate.libcal.com/calendar/events/geospatial_202011">REGISTER</a>
 <!-- Below is optional element styling  //-->
 <style>
